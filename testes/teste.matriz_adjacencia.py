@@ -1,0 +1,5 @@
+print("Matriz de Adjacência:")
+mat_adj = MatrizAdjacencia(4)
+mat_adj.adicionar_aresta(0, 1)
+mat_adj.adicionar_aresta(1, 2)
+mat_adj.mostrar()
